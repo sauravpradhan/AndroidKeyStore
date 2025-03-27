@@ -1,5 +1,5 @@
 # AndroidKeyStore
-Demo app for using Android Keystore System  :metal:
+Demo app for using Android Keystore System 
 
 #APK Link
 You can directly test the APK from the below link:
